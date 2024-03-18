@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mystyle.css">
+<style>
+    body {
+        background-color: rgb(232, 244, 249);
+         }
+    img {
+      display: block
+      margin-left: auto;
+      margin-right: auto;
+      width: 100px;
+      height: 100px;
+         }
+</style>
+</head>
+<body>
+    <h1>Career Goal</h1>
+    <p>My career goal is to become a lawyer. I want to work in a law firm. This is my career goal because it seems like such an interesting job. I like to read, and I love English, and I think that being a lawyer will help me become better at English. Practicing law can also improve the lives of many people, because lawyers fight for the rights of their clients. Being good at law also means that you can get highly paid, which is useful in the real world. I think that law is a very inspriring job to do, because there are not many female Indian lawyers, so it will be interesting to strive to get a job where there is less diversity. I have always wanted to be a lawyer, since I was in elementary school because I like to fight to prove what I believe in is right. Although I also think that Law School sounds very hard, I think it is worth it because you are helping those in need. </p>
+  <h1>Strengths / Qualities</h1>                                           <p>Some strengths that I have is that I can finish work fast, and although I procrastinate I can still get work done. I also can study for long hours without getting distracted. Some of my best qualities are that I am determined and that I can get more work done if I put my mind to it. I also can stay persistent when there is an issue, and I can try to fix the problem.</p>
+  <h1>Accomplishments</h1>
+  <p>Some things that I have accomplished are being on the first Emerald Girl's Basketball Team. This is a big accomplishment because it is the first ever girl's basketball team for the new high school. We also got the first team win for Emerald High, which is big accomplishment, and our team even won a few games.</p>
+  <p>My email is: heragu5192@muydusd.org</p>
+  <div style="text-align: center;"> <br>
+      <img src="PXL_20240304_020254426">
+  </div>
+</body>
